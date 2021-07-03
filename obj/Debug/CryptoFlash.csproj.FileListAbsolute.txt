@@ -1,0 +1,16 @@
+D:\разработка\C#\CryptoFlash\bin\Debug\CryptoFlash.exe.config
+D:\разработка\C#\CryptoFlash\bin\Debug\CryptoFlash.exe
+D:\разработка\C#\CryptoFlash\bin\Debug\CryptoFlash.pdb
+D:\разработка\C#\CryptoFlash\obj\Debug\CryptoFlash.csproj.AssemblyReference.cache
+D:\разработка\C#\CryptoFlash\obj\Debug\CryptoFlash.Properties.Resources.resources
+D:\разработка\C#\CryptoFlash\obj\Debug\CryptoFlash.csproj.GenerateResource.cache
+D:\разработка\C#\CryptoFlash\obj\Debug\CryptoFlash.csproj.CoreCompileInputs.cache
+D:\разработка\C#\CryptoFlash\obj\Debug\CryptoFlash.exe
+D:\разработка\C#\CryptoFlash\obj\Debug\CryptoFlash.pdb
+D:\разработка\C#\CryptoFlash\obj\Debug\CryptoFlash.Crypto.resources
+D:\разработка\C#\CryptoFlash\obj\Debug\Interop.CompressLib.dll
+D:\разработка\C#\CryptoFlash\obj\Debug\CryptoFlash.csproj.ResolveComReference.cache
+D:\разработка\C#\CryptoFlash\bin\Debug\CryptoFlash.exe.manifest
+D:\разработка\C#\CryptoFlash\bin\Debug\CryptoFlash.application
+D:\разработка\C#\CryptoFlash\obj\Debug\CryptoFlash.exe.manifest
+D:\разработка\C#\CryptoFlash\obj\Debug\CryptoFlash.application
